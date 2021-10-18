@@ -1,0 +1,7 @@
+com\nlx\mall\domain\Account.class
+com\nlx\mall\constants\ServiceNameCons.class
+com\nlx\mall\entities\Payment.class
+com\nlx\mall\entities\OrderParam.class
+com\nlx\mall\domain\Storage.class
+com\nlx\mall\entities\CommonResult.class
+com\nlx\mall\domain\Order.class

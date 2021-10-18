@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mall-service-storage8101" />
+        <module name="mall-service-account8201" />
+        <module name="mall-client-order80" />
+        <module name="mall-service-order8002" />
+        <module name="mall-service-order8001" />
+        <module name="mall-api-commons" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mall-account-service" target="1.8" />
+      <module name="mall-order-service" target="1.8" />
+      <module name="mall-storage-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
